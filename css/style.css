@@ -94,6 +94,11 @@ padding-top: 50px;
   height:auto;
   margin-left: 15%;
 }
+
+.uno__img:hover{
+  transform: scaleX(1.5);
+  cursor: pointer;
+}
 .content{
   position: relative;
     overflow: hidden;
